@@ -9,6 +9,7 @@
   "author": "Hexagons",
   "license": "ISC",
   "dependencies": {
-    "app-store-scraper": "^0.16.2"
+    "app-store-scraper": "^0.16.2",
+    "googleplaces": "^0.6.1"
   }
 }
